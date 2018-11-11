@@ -1,2 +1,3 @@
 # example-game
-Test of GitHub
+Test of GitHub by Jondz
+Big Flying Bird
